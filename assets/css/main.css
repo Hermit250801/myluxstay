@@ -288,8 +288,8 @@
 
 .slides__navigation-manual {
     position: absolute;
-    top: 125%;
-    right: 20%;
+    top: 112%;
+    right: 15%;
     width: 800px;
     display: flex;
     justify-content: flex-end;
@@ -327,8 +327,8 @@
 
 .slides__navigation--auto {
     position: absolute;
-    top: 125%;
-    right: 20%;
+    top: 112%;
+    right: 15%;
     display: flex;
     width: 800px;
     justify-content: flex-end;
